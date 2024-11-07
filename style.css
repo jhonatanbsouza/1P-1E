@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+
+header{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    /** margin -> espaçamento externo*/
+    padding: 30px;
+    /** padding -> espaçamento interno*/
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    /* * Alinha VERTICALMENTE os itens dentro do
+    * display flex */
+    justify-content: space-between;
+
+}
+
+a{
+    color: white;
+}
